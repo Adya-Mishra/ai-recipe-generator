@@ -26,7 +26,7 @@ An intelligent recipe recommendation system that helps you find the perfect dish
 1. Clone this repository or download the source code:
 
 ```bash
-git clone https://github.com/yourusername/ai-recipe-generator.git
+git clone https://github.com/Adya-Mishra/ai-recipe-generator.git
 cd ai-recipe-generator
 ```
 
